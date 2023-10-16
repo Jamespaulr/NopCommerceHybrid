@@ -10,6 +10,9 @@ public class TC_Login_001 extends BaseClass
     @Test
     public void LoginTest()
     {
+
+        TC_Register_001 tcRegister001= new TC_Register_001();
+        tcRegister001.RegisterTest();
         logger.info("Getting the url");
         driver.get(url);
         LoginPage loginPage=new LoginPage(driver);
