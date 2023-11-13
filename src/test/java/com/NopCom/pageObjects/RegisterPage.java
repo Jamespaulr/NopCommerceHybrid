@@ -1,5 +1,4 @@
 package com.NopCom.pageObjects;
-
 import com.NopCom.testCases.BaseClass;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -11,7 +10,6 @@ import org.testng.annotations.Test;
 
 public class RegisterPage
 {
-
     public  static WebDriver ldriver;
     public RegisterPage(WebDriver rdriver)
     {
@@ -22,35 +20,26 @@ public class RegisterPage
     public WebElement registerButton;
     @FindBy(xpath = "//input[@id=\"gender-male\"]")
     public WebElement genderMale;
-
     @FindBy(xpath = "//input[@id=\"FirstName\"]")
     public WebElement firstName;
-
     @FindBy(xpath ="//input[@id=\"LastName\"]")
     public WebElement lastName;
-
     @FindBy(xpath="//select[@name=\"DateOfBirthDay\"]")
     public WebElement DOBDay;
-
     @FindBy(xpath = "//select[@name=\"DateOfBirthMonth\"]")
     public WebElement DOBMonth;
     @FindBy(xpath = "//select[@name=\"DateOfBirthYear\"]")
     public WebElement DOBYear;
-
     @FindBy(xpath = "//input[@id=\"Email\"]")
     public WebElement RegEmail;
-
     @FindBy(xpath = "//input[@id=\"Company\"]")
     public WebElement CompanyName;
-
     @FindBy(xpath = "//input[@id=\"Newsletter\"]")
     public WebElement NewsLetterCheckBox;
-
     @FindBy(xpath = "//input[@id=\"Password\"]")
     public WebElement RegPassword;
     @FindBy(xpath = "//input[@id=\"ConfirmPassword\"]")
     public WebElement confirmRegPassword;
-
     @FindBy(xpath = "//button[@id=\"register-button\"]")
     public WebElement RegButton;
     @FindBy(xpath = "//div[@class='result']")
@@ -114,11 +103,4 @@ public class RegisterPage
         confirmRegPassword.sendKeys(password);
         confirmRegPassword.submit();
     }
-
-
-
-
-
-
-
 }

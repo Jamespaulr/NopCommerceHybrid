@@ -4,8 +4,11 @@ import com.NopCom.pageObjects.RegisterPage;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
+import java.io.IOException;
+
 public class TC_Register_001 extends BaseClass
 {
+
     @Test
     public void RegisterTest()
     {

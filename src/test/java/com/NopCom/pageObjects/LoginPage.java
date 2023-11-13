@@ -40,5 +40,4 @@ public class LoginPage
         password.submit();
     }
 
-
 }
