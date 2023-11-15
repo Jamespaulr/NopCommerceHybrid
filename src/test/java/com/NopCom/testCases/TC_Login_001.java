@@ -24,7 +24,7 @@ public class TC_Login_001 extends BaseClass
         loginPage.enterPassword(adminPassword);
         logger.info("asserting whether the expected value is been seen");
         System.out.println(driver.getTitle());
-        if (driver.getTitle().equals("nopCommerce demo store"))
+        if (driver.getTitle().equals("nopCommerce demo store James"))
         {
             Assert.assertTrue(true,"It is Passed");
             logger.info("Asserted...The testcase passed");

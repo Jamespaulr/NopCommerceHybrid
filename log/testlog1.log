@@ -1,0 +1,22 @@
+2023-11-15 11:20:35,991 [main] INFO NopCommerceHybrid - Getting the url
+2023-11-15 11:20:36,631 [main] INFO NopCommerceHybrid - entering admin email
+2023-11-15 11:20:37,414 [main] INFO NopCommerceHybrid - entering admin email
+2023-11-15 11:20:38,466 [main] INFO NopCommerceHybrid - asserting whether the expected value is been seen
+2023-11-15 11:20:38,500 [main] INFO NopCommerceHybrid - Asserted...The testcase passed
+2023-11-15 11:24:38,307 [main] INFO NopCommerceHybrid - Getting the url
+2023-11-15 11:24:38,969 [main] INFO NopCommerceHybrid - entering admin email
+2023-11-15 11:24:39,838 [main] INFO NopCommerceHybrid - entering admin email
+2023-11-15 11:24:40,948 [main] INFO NopCommerceHybrid - asserting whether the expected value is been seen
+2023-11-15 11:24:41,004 [main] INFO NopCommerceHybrid - Asserted...The testcase passed
+2023-11-15 11:40:11,285 [main] INFO NopCommerceHybrid - Getting the url
+2023-11-15 11:40:11,933 [main] INFO NopCommerceHybrid - entering admin email
+2023-11-15 11:40:13,612 [main] INFO NopCommerceHybrid - entering admin email
+2023-11-15 11:40:14,696 [main] INFO NopCommerceHybrid - asserting whether the expected value is been seen
+2023-11-15 12:40:49,317 [main] INFO NopCommerceHybrid - Getting the url
+2023-11-15 12:40:50,016 [main] INFO NopCommerceHybrid - entering admin email
+2023-11-15 12:40:50,817 [main] INFO NopCommerceHybrid - entering admin email
+2023-11-15 12:40:51,952 [main] INFO NopCommerceHybrid - asserting whether the expected value is been seen
+2023-11-15 15:22:00,782 [main] INFO NopCommerceHybrid - Getting the url
+2023-11-15 15:22:01,502 [main] INFO NopCommerceHybrid - entering admin email
+2023-11-15 15:22:02,314 [main] INFO NopCommerceHybrid - entering admin email
+2023-11-15 15:22:03,397 [main] INFO NopCommerceHybrid - asserting whether the expected value is been seen

@@ -26,6 +26,9 @@ public class LoginPage
     @FindBy(xpath = "//a[@href=\"/login?returnUrl=%2F\"]")
     public WebElement loginButton;
 
+    @FindBy(xpath = "//a[@href=\"/logout\"]")
+    public WebElement logout;
+
     public void enterUsername(String username)
     {
         email.click();
@@ -38,6 +41,10 @@ public class LoginPage
         password.clear();
         password.sendKeys(username);
         password.submit();
+    }
+    public void logout()
+    {
+        logout.click();
     }
 
 }
