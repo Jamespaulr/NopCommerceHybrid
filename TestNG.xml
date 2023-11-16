@@ -9,8 +9,8 @@
     <test name="Login Test">
         <parameter name="Browser" value="Edge"/>
         <classes>
-            <class name="com.NopCom.testCases.TC_Login_001"/>
-<!--            <class name="com.NopCom.testCases.TC_LoginDDT_002"/>-->
+<!--            <class name="com.NopCom.testCases.TC_Login_001"/>-->
+            <class name="com.NopCom.testCases.TC_LoginDDT_002"/>
         </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->

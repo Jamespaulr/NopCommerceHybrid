@@ -16,6 +16,7 @@ public class TC_LoginDDT_002 extends BaseClass
 
     public void loginDDT(String user ,String pwd) throws InterruptedException {
         LoginPage lp=new LoginPage(driver);
+        lp.loginButton.click();
         lp.enterUsername(user);
         logger.info("user name entered");
         lp.enterPassword(pwd);
@@ -40,7 +41,7 @@ public class TC_LoginDDT_002 extends BaseClass
 
     @DataProvider(name="LoginData")
     String [] [] getData() throws IOException {
-        String path =System.getProperty("user.dir")+"/src/test/java/com/NopCom/testData/LoginData.xlsx";
+        String path ="C:/Users/James Paul R/IdeaProjects/NopCommerceHybrid/src/test/java/com/NopCom/testData/TestData.xlsx";
         int rownum= XLUtils.getRowCount(path,"Sheet1");
         int colCount=XLUtils.getCellCount(path, "Sheet1",1);
         String loginData [] [] = new String[rownum][colCount];

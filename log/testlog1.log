@@ -20,3 +20,50 @@
 2023-11-15 15:22:01,502 [main] INFO NopCommerceHybrid - entering admin email
 2023-11-15 15:22:02,314 [main] INFO NopCommerceHybrid - entering admin email
 2023-11-15 15:22:03,397 [main] INFO NopCommerceHybrid - asserting whether the expected value is been seen
+2023-11-16 10:38:27,413 [main] INFO NopCommerceHybrid - Getting the url
+2023-11-16 10:38:28,502 [main] INFO NopCommerceHybrid - entering admin email
+2023-11-16 10:38:29,429 [main] INFO NopCommerceHybrid - entering admin email
+2023-11-16 10:38:30,505 [main] INFO NopCommerceHybrid - asserting whether the expected value is been seen
+2023-11-16 10:38:30,521 [main] INFO NopCommerceHybrid - Asserted...The testcase passed
+2023-11-16 10:42:31,700 [main] INFO NopCommerceHybrid - user name entered
+2023-11-16 10:42:33,161 [main] INFO NopCommerceHybrid - Password entered
+2023-11-16 10:42:36,236 [main] INFO NopCommerceHybrid - Login Success
+2023-11-16 10:42:38,270 [main] INFO NopCommerceHybrid - user name entered
+2023-11-16 10:42:39,049 [main] INFO NopCommerceHybrid - Password entered
+2023-11-16 10:42:43,240 [main] INFO NopCommerceHybrid - user name entered
+2023-11-16 10:42:44,363 [main] INFO NopCommerceHybrid - Password entered
+2023-11-16 10:42:47,374 [main] INFO NopCommerceHybrid - Login Success
+2023-11-16 10:42:49,441 [main] INFO NopCommerceHybrid - user name entered
+2023-11-16 10:42:50,229 [main] INFO NopCommerceHybrid - Password entered
+2023-11-16 10:52:16,276 [main] INFO NopCommerceHybrid - user name entered
+2023-11-16 10:52:18,086 [main] INFO NopCommerceHybrid - Password entered
+2023-11-16 10:52:21,104 [main] INFO NopCommerceHybrid - Login Success
+2023-11-16 10:52:22,684 [main] INFO NopCommerceHybrid - user name entered
+2023-11-16 10:52:23,466 [main] INFO NopCommerceHybrid - Password entered
+2023-11-16 10:52:26,503 [main] INFO NopCommerceHybrid - Login failed
+2023-11-16 10:52:27,235 [main] INFO NopCommerceHybrid - user name entered
+2023-11-16 10:52:28,310 [main] INFO NopCommerceHybrid - Password entered
+2023-11-16 10:52:31,331 [main] INFO NopCommerceHybrid - Login Success
+2023-11-16 10:52:33,656 [main] INFO NopCommerceHybrid - user name entered
+2023-11-16 10:52:34,271 [main] INFO NopCommerceHybrid - Password entered
+2023-11-16 10:52:37,295 [main] INFO NopCommerceHybrid - Login failed
+2023-11-16 10:53:15,981 [main] INFO NopCommerceHybrid - user name entered
+2023-11-16 10:53:17,899 [main] INFO NopCommerceHybrid - Password entered
+2023-11-16 10:53:20,926 [main] INFO NopCommerceHybrid - Login Success
+2023-11-16 10:53:22,567 [main] INFO NopCommerceHybrid - user name entered
+2023-11-16 10:53:23,187 [main] INFO NopCommerceHybrid - Password entered
+2023-11-16 10:53:27,010 [main] INFO NopCommerceHybrid - user name entered
+2023-11-16 10:53:28,047 [main] INFO NopCommerceHybrid - Password entered
+2023-11-16 10:53:31,061 [main] INFO NopCommerceHybrid - Login Success
+2023-11-16 10:53:32,684 [main] INFO NopCommerceHybrid - user name entered
+2023-11-16 10:53:33,331 [main] INFO NopCommerceHybrid - Password entered
+2023-11-16 11:02:13,918 [main] INFO NopCommerceHybrid - user name entered
+2023-11-16 11:02:15,483 [main] INFO NopCommerceHybrid - Password entered
+2023-11-16 11:02:18,506 [main] INFO NopCommerceHybrid - Login Success
+2023-11-16 11:02:21,660 [main] INFO NopCommerceHybrid - user name entered
+2023-11-16 11:02:22,501 [main] INFO NopCommerceHybrid - Password entered
+2023-11-16 11:02:27,705 [main] INFO NopCommerceHybrid - user name entered
+2023-11-16 11:02:28,932 [main] INFO NopCommerceHybrid - Password entered
+2023-11-16 11:02:31,957 [main] INFO NopCommerceHybrid - Login Success
+2023-11-16 11:02:35,810 [main] INFO NopCommerceHybrid - user name entered
+2023-11-16 11:02:36,529 [main] INFO NopCommerceHybrid - Password entered

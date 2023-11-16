@@ -27,12 +27,14 @@ public class Reporting extends TestListenerAdapter
     public ExtentHtmlReporter htmlReporter;
     public ExtentReports extent;
     public ExtentTest logger;
+    public static String SSName;
 
 
     public void onStart(ITestContext testContext)
     {
         String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());//time stamp
         String repName="Test-Report-"+timeStamp+".html";
+        String SSName= timeStamp;
 
         htmlReporter=new ExtentHtmlReporter(System.getProperty("user.dir")+ "/test-output/"+repName);//specify location of the report
         htmlReporter.loadXMLConfig(System.getProperty("user.dir")+ "/extent-config.xml");
@@ -57,7 +59,7 @@ public class Reporting extends TestListenerAdapter
     public static String captureScreen(WebDriver driver, String tname) throws IOException {
         TakesScreenshot ts = (TakesScreenshot) driver;
         File source = ts.getScreenshotAs(OutputType.FILE);
-        File target = new File(System.getProperty("user.dir") + "/Screenshots/" + tname + ".png");
+        File target = new File(System.getProperty("user.dir") + "/Screenshots/" + tname + SSName + ".png");
         FileUtils.copyFile(source, target);
         return tname;
 
