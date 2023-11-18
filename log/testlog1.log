@@ -20,3 +20,15 @@
 2023-11-15 15:22:01,502 [main] INFO NopCommerceHybrid - entering admin email
 2023-11-15 15:22:02,314 [main] INFO NopCommerceHybrid - entering admin email
 2023-11-15 15:22:03,397 [main] INFO NopCommerceHybrid - asserting whether the expected value is been seen
+2023-11-18 12:09:41,880 [main] INFO NopCommerceHybrid - user name provided
+2023-11-18 12:09:42,736 [main] INFO NopCommerceHybrid - password provided
+2023-11-18 12:09:46,745 [main] INFO NopCommerceHybrid - user name provided
+2023-11-18 12:09:47,626 [main] INFO NopCommerceHybrid - password provided
+2023-11-18 12:09:51,684 [main] INFO NopCommerceHybrid - user name provided
+2023-11-18 12:09:52,564 [main] INFO NopCommerceHybrid - password provided
+2023-11-18 12:09:56,479 [main] INFO NopCommerceHybrid - user name provided
+2023-11-18 12:09:57,291 [main] INFO NopCommerceHybrid - password provided
+2023-11-18 12:11:18,848 [main] INFO NopCommerceHybrid - user name provided
+2023-11-18 12:11:20,061 [main] INFO NopCommerceHybrid - password provided
+2023-11-18 12:11:24,123 [main] INFO NopCommerceHybrid - user name provided
+2023-11-18 12:11:24,894 [main] INFO NopCommerceHybrid - password provided
