@@ -23,13 +23,13 @@ public class BaseClass {
         logger=Logger.getLogger("NopCommerceHybrid");
         PropertyConfigurator.configure("Log4j.properties");
         if (br.equals("Chrome")) {
-            System.setProperty("webdriver.driver.chrome", readConfig.getChromePath());
+            System.setProperty("webdriver.chrome.driver", readConfig.getChromePath());
             driver = new ChromeDriver();
             driver.manage().window().maximize();
         }
         else if (br.equals("Edge"))
         {
-            System.setProperty("webdriver.driver.edge", readConfig.getEdgePath());
+            System.setProperty("webdriver.edge.driver", readConfig.getEdgePath());
             driver = new EdgeDriver();
             driver.manage().window().maximize();
         }
