@@ -26,9 +26,17 @@ public class TC_LoginDDT_002 extends BaseClass
 
     }
     @DataProvider(name="LoginData")
+<<<<<<< HEAD
     String [][] getData() throws IOException
     {
         String path=System.getProperty("user.dir")+"/src/test/java/com/NopCom/testData/TestData.xlsx";
+=======
+    String [] [] getData() throws IOException {
+        String path ="C:/Users/James Paul R/IdeaProjects/NopCommerceHybrid/src/test/java/com/NopCom/testData/TestData.xlsx";
+        int rownum= XLUtils.getRowCount(path,"Sheet1");
+        int colCount=XLUtils.getCellCount(path, "Sheet1",1);
+        String loginData [] [] = new String[rownum][colCount];
+>>>>>>> a5ae3e4456f1b52d89f3bcb3c6d147c2e64bb363
 
         int rownum=XLUtils.getRowCount(path, "Sheet1");
         int colcount=XLUtils.getCellCount(path,"Sheet1",1);

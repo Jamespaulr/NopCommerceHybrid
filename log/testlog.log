@@ -20,6 +20,7 @@
 2023-11-15 15:22:01,502 - NopCommerceHybrid -INFO - entering admin email
 2023-11-15 15:22:02,314 - NopCommerceHybrid -INFO - entering admin email
 2023-11-15 15:22:03,397 - NopCommerceHybrid -INFO - asserting whether the expected value is been seen
+<<<<<<< HEAD
 2023-11-18 12:09:41,880 - NopCommerceHybrid -INFO - user name provided
 2023-11-18 12:09:42,736 - NopCommerceHybrid -INFO - password provided
 2023-11-18 12:09:46,745 - NopCommerceHybrid -INFO - user name provided
@@ -80,3 +81,52 @@
 2023-11-21 14:51:52,412 - NopCommerceHybrid -INFO - password provided
 2023-11-21 14:51:56,690 - NopCommerceHybrid -INFO - user name provided
 2023-11-21 14:51:57,692 - NopCommerceHybrid -INFO - password provided
+=======
+2023-11-16 10:38:27,413 - NopCommerceHybrid -INFO - Getting the url
+2023-11-16 10:38:28,502 - NopCommerceHybrid -INFO - entering admin email
+2023-11-16 10:38:29,429 - NopCommerceHybrid -INFO - entering admin email
+2023-11-16 10:38:30,505 - NopCommerceHybrid -INFO - asserting whether the expected value is been seen
+2023-11-16 10:38:30,521 - NopCommerceHybrid -INFO - Asserted...The testcase passed
+2023-11-16 10:42:31,700 - NopCommerceHybrid -INFO - user name entered
+2023-11-16 10:42:33,161 - NopCommerceHybrid -INFO - Password entered
+2023-11-16 10:42:36,236 - NopCommerceHybrid -INFO - Login Success
+2023-11-16 10:42:38,270 - NopCommerceHybrid -INFO - user name entered
+2023-11-16 10:42:39,049 - NopCommerceHybrid -INFO - Password entered
+2023-11-16 10:42:43,240 - NopCommerceHybrid -INFO - user name entered
+2023-11-16 10:42:44,363 - NopCommerceHybrid -INFO - Password entered
+2023-11-16 10:42:47,374 - NopCommerceHybrid -INFO - Login Success
+2023-11-16 10:42:49,441 - NopCommerceHybrid -INFO - user name entered
+2023-11-16 10:42:50,229 - NopCommerceHybrid -INFO - Password entered
+2023-11-16 10:52:16,276 - NopCommerceHybrid -INFO - user name entered
+2023-11-16 10:52:18,086 - NopCommerceHybrid -INFO - Password entered
+2023-11-16 10:52:21,104 - NopCommerceHybrid -INFO - Login Success
+2023-11-16 10:52:22,684 - NopCommerceHybrid -INFO - user name entered
+2023-11-16 10:52:23,466 - NopCommerceHybrid -INFO - Password entered
+2023-11-16 10:52:26,503 - NopCommerceHybrid -INFO - Login failed
+2023-11-16 10:52:27,235 - NopCommerceHybrid -INFO - user name entered
+2023-11-16 10:52:28,310 - NopCommerceHybrid -INFO - Password entered
+2023-11-16 10:52:31,331 - NopCommerceHybrid -INFO - Login Success
+2023-11-16 10:52:33,656 - NopCommerceHybrid -INFO - user name entered
+2023-11-16 10:52:34,271 - NopCommerceHybrid -INFO - Password entered
+2023-11-16 10:52:37,295 - NopCommerceHybrid -INFO - Login failed
+2023-11-16 10:53:15,981 - NopCommerceHybrid -INFO - user name entered
+2023-11-16 10:53:17,899 - NopCommerceHybrid -INFO - Password entered
+2023-11-16 10:53:20,926 - NopCommerceHybrid -INFO - Login Success
+2023-11-16 10:53:22,567 - NopCommerceHybrid -INFO - user name entered
+2023-11-16 10:53:23,187 - NopCommerceHybrid -INFO - Password entered
+2023-11-16 10:53:27,010 - NopCommerceHybrid -INFO - user name entered
+2023-11-16 10:53:28,047 - NopCommerceHybrid -INFO - Password entered
+2023-11-16 10:53:31,061 - NopCommerceHybrid -INFO - Login Success
+2023-11-16 10:53:32,684 - NopCommerceHybrid -INFO - user name entered
+2023-11-16 10:53:33,331 - NopCommerceHybrid -INFO - Password entered
+2023-11-16 11:02:13,918 - NopCommerceHybrid -INFO - user name entered
+2023-11-16 11:02:15,483 - NopCommerceHybrid -INFO - Password entered
+2023-11-16 11:02:18,506 - NopCommerceHybrid -INFO - Login Success
+2023-11-16 11:02:21,660 - NopCommerceHybrid -INFO - user name entered
+2023-11-16 11:02:22,501 - NopCommerceHybrid -INFO - Password entered
+2023-11-16 11:02:27,705 - NopCommerceHybrid -INFO - user name entered
+2023-11-16 11:02:28,932 - NopCommerceHybrid -INFO - Password entered
+2023-11-16 11:02:31,957 - NopCommerceHybrid -INFO - Login Success
+2023-11-16 11:02:35,810 - NopCommerceHybrid -INFO - user name entered
+2023-11-16 11:02:36,529 - NopCommerceHybrid -INFO - Password entered
+>>>>>>> a5ae3e4456f1b52d89f3bcb3c6d147c2e64bb363
